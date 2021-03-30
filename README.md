@@ -1,5 +1,5 @@
 # docker-compose
-## Before running this need to follow the  link
+## Before running this need to follow the process (Link is given below)
 ``` bash
 github.com/sumitgadade/docker-mysql
 ```
