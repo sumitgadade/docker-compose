@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+        database1: 
+                image: my-mysql
+                ports:
+                        - "6045:4040"
+                stdin_open: true
+                tty: true
+        database2:
+                image: my-mysql
+                ports:
+                        - "6046:4040"
+                stdin_open: true
+                tty: true
+        database3: 
+                image: my-mysql
+                ports:
+                        - "6047:4040"
+                stdin_open: true
+                tty: true
